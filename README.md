@@ -12,6 +12,17 @@ I treat CTFs and personal research as a lab: most public work here is proof-of-c
 
 Write-ups and analysis notes go to [nhaajtt.github.io](https://nhaajtt.github.io) (RSS available).
 
+## Projects
+
+- [orrery](https://github.com/nhaajtt/orrery) - looks up a GitHub profile and draws its public repositories as planets, plus the Action behind the SVG above.
+- [canary-bypass](https://github.com/nhaajtt/canary-bypass) - recovering a stack canary byte by byte from a crash and no-crash oracle.
+- [fuzzing-lab](https://github.com/nhaajtt/fuzzing-lab) - a fuzzing harness for cJSON, with a finding reported as [DaveGamble/cJSON#1093](https://github.com/DaveGamble/cJSON/issues/1093).
+- [exploit-labs](https://github.com/nhaajtt/exploit-labs) - self-contained stack overflow, ret2libc and SQL injection labs, each with its own target and exploit.
+- [re-tools](https://github.com/nhaajtt/re-tools) - small command-line tools: ELF and PE header dumps, entropy scanning, XOR brute-forcing.
+- [re-ai-assist](https://github.com/nhaajtt/re-ai-assist) - connects a running Ghidra session to a language model for binary triage.
+- [ai-redteam](https://github.com/nhaajtt/ai-redteam) - a red-team harness testing a self-authored assistant against prompt injection and jailbreaks.
+- [ctf-writeups](https://github.com/nhaajtt/ctf-writeups) - CTF write-ups with a template and a self-updating index.
+
 ## Toolbox
 
 ![Ghidra](https://img.shields.io/badge/Ghidra-4B1A1A?style=flat-square)
