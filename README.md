@@ -30,3 +30,9 @@ I treat CTFs and personal research as a lab: most public work here is proof-of-c
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nhaajtt&layout=compact&hide_border=true&theme=dark)
 
 ![Metrics](./github-metrics.svg)
+
+## Orrery
+
+![Public repositories of nhaajtt drawn as planets around the sun](./orrery.svg)
+
+Drawn daily by [Orrery](https://github.com/nhaajtt/orrery), a small GitHub Action I wrote. Each planet is a public repository. There is also a [live version](https://orbit-gh.vercel.app/?u=nhaajtt) where you can look up any username and compare two profiles.
