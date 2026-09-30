@@ -39,8 +39,6 @@ Write-ups and analysis notes go to [nhaajtt.github.io](https://nhaajtt.github.io
 
 ## Activity
 
-![nhaajtt's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhaajtt&show_icons=true&hide_title=true&count_private=true&theme=dark)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nhaajtt&layout=compact&hide_border=true&theme=dark)
 
 ![Metrics](./github-metrics.svg)
 
