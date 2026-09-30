@@ -10,6 +10,8 @@ Reverse engineer and security researcher. I spend most of my time taking binarie
 
 I treat CTFs and personal research as a lab: most public work here is proof-of-concept code, analysis notes, and tools built to solve a specific reversing problem, not production software.
 
+Write-ups and analysis notes go to [nhaajtt.github.io](https://nhaajtt.github.io) (RSS available).
+
 ## Toolbox
 
 ![Ghidra](https://img.shields.io/badge/Ghidra-4B1A1A?style=flat-square)
