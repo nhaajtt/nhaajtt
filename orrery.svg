@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 440" width="880" height="440" role="img" aria-labelledby="t d">
+<title id="t">Orrery of nhaajtt</title>
+<desc id="d">nhaajtt: 3 public repositories, 0 stars, 0 followers. Each planet is a public repository; newer pushes orbit closer to the sun.</desc>
+<style>
+  :root { --bg: #05070f; --fg: #eef0ea; --dim: #9aa2b1; --ring: #eef0ea; --sun: #c8ff3d; --core: #c8ff3d; }
+  @media (prefers-color-scheme: light) { :root { --bg: #edf0f6; --fg: #0b0f1a; --dim: #4b5363; --ring: #0b0f1a; --core: #0b0f1a; } }
+  text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: var(--fg); }
+  .name { font: 700 26px ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif; }
+  .v { font-size: 22px; font-weight: 600; }
+  .k { font-size: 12px; fill: var(--dim); }
+  .ring { fill: none; stroke: var(--ring); stroke-opacity: .13; stroke-width: 1; }
+  .glow { fill: var(--sun); opacity: .28; }
+</style>
+<rect width="880" height="440" rx="16" fill="var(--bg)"/>
+<text class="name" x="36" y="60">Nhaajt</text>
+<text class="k" x="36" y="84">@nhaajtt</text>
+<text class="v" x="36" y="164">3</text><text class="k" x="36" y="182">public repos</text><text class="v" x="36" y="210">0</text><text class="k" x="36" y="228">stars</text><text class="v" x="36" y="256">0</text><text class="k" x="36" y="274">followers</text><text class="v" x="36" y="302">JavaScript</text><text class="k" x="36" y="320">top language</text>
+<ellipse class="ring" cx="560" cy="226" rx="60.0" ry="24.0"/>
+<ellipse class="ring" cx="560" cy="226" rx="179.0" ry="71.6"/>
+<ellipse class="ring" cx="560" cy="226" rx="282.0" ry="112.8"/>
+<circle class="glow" cx="560" cy="226" r="34"><animate attributeName="r" values="30;38;30" dur="5s" repeatCount="indefinite"/></circle>
+<circle cx="560" cy="226" r="11" fill="var(--core)"/>
+<g opacity="1"><title>nhaajtt</title><circle r="9.7" fill="#7d8597" opacity="0.16"/><circle r="3.7" fill="#7d8597"/><animateMotion dur="22.6s" begin="-10.8s" repeatCount="indefinite" path="M 620 226 a 60 24 0 1 0 -120 0 a 60 24 0 1 0 120 0 z"/></g>
+<g opacity="1"><title>orrery, JavaScript</title><circle r="9.0" fill="#e5c95a" opacity="0.16"/><circle r="3.4" fill="#e5c95a"/><animateMotion dur="45.5s" begin="-44.9s" repeatCount="indefinite" path="M 738.9668543415286 226 a 178.96685434152855 71.58674173661142 0 1 0 -357.9337086830571 0 a 178.96685434152855 71.58674173661142 0 1 0 357.9337086830571 0 z"/></g>
+<g opacity="1"><title>sandbox</title><circle r="16.6" fill="#7d8597" opacity="0.16"/><circle r="6.4" fill="#7d8597"/><animateMotion dur="89.8s" begin="-76.5s" repeatCount="indefinite" path="M 842 226 a 282 112.80000000000001 0 1 0 -564 0 a 282 112.80000000000001 0 1 0 564 0 z"/></g>
+</svg>
