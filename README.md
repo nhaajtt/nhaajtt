@@ -10,7 +10,7 @@ Reverse engineer and security researcher. I spend most of my time taking binarie
 
 I treat CTFs and personal research as a lab: most public work here is proof-of-concept code, analysis notes, and tools built to solve a specific reversing problem, not production software.
 
-Write-ups and analysis notes go to [nhaajtt.github.io](https://nhaajtt.github.io) (RSS available). My site is [nhaajt.com](https://www.nhaajt.com), and the Discord bots I built are at [bots.nhaajt.com](https://bots.nhaajt.com).
+Write-ups and analysis notes go to [nhaajtt.github.io](https://nhaajtt.github.io) (RSS available). My CV is at [nhaajt.com](https://www.nhaajt.com), everything I build is on [lab.nhaajt.com](https://lab.nhaajt.com), and the Discord bots are at [bots.nhaajt.com](https://bots.nhaajt.com).
 
 ## Projects
 
