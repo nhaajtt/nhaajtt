@@ -10,7 +10,7 @@ Reverse engineer and security researcher. I spend most of my time taking binarie
 
 I treat CTFs and personal research as a lab: most public work here is proof-of-concept code, analysis notes, and tools built to solve a specific reversing problem, not production software.
 
-Write-ups and analysis notes go to [nhaajtt.github.io](https://nhaajtt.github.io) (RSS available).
+Write-ups and analysis notes go to [nhaajtt.github.io](https://nhaajtt.github.io) (RSS available). My site is [nhaajt.com](https://www.nhaajt.com), and the Discord bots I built are at [bots.nhaajt.com](https://bots.nhaajt.com).
 
 ## Projects
 
@@ -46,4 +46,4 @@ Write-ups and analysis notes go to [nhaajtt.github.io](https://nhaajtt.github.io
 
 ![Public repositories of nhaajtt drawn as planets around the sun](./orrery.svg)
 
-Drawn daily by [Orrery](https://github.com/nhaajtt/orrery), a small GitHub Action I wrote. Each planet is a public repository. There is also a [live version](https://orbit-gh.vercel.app/?u=nhaajtt) where you can look up any username and compare two profiles.
+Drawn daily by [Orrery](https://github.com/nhaajtt/orrery), a small GitHub Action I wrote. Each planet is a public repository. There is also a [live version](https://orrery.nhaajt.com/?u=nhaajtt) where you can look up any username and compare two profiles.
