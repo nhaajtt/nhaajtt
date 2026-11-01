@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img width="240" src="./avatar-dither.svg" alt="Nhaajt in a balaclava, with a hamster doing peace signs" />
+  <img width="240" src="./avatar-sharpen.svg" alt="Nhaajt in a balaclava, with a hamster doing peace signs" />
 </p>
 
 <p align="center"><sub><em>
