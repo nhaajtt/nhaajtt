@@ -90,12 +90,18 @@ More experiments, finished and unfinished, live on [lab.nhaajt.com](https://lab.
 
 ---
 
-## Tiếng Việt
+## Tiếng Việt (bản không nghiêm túc)
 
-Mình đang đi học và tự học thêm hai hướng mình mê nhất: **cloud engineering** và **reverse engineering**. Mình tự dựng và vận hành homelab hai server ở nhà, viết backend thời gian thực trên Cloudflare, và làm hạ tầng theo kiểu “không tin gì mặc định”.
-Mình thích tháo tung mọi thứ ra xem bên trong chạy thế nào, từ một file chương trình, một hệ thống mạng, đến cái Spotify Car Thing đã "chết".
-Những gì ở đây là mình học công khai: có cái xong, có cái còn dở, nhưng cái nào cũng là một bài học.
-Nếu bạn cũng đang học, cứ nhắn mình, học chung vui hơn.
+Chào bạn 👋 Ban ngày mình là sinh viên, ban đêm mình là kỹ sư cloud không lương cho chính cái homelab nhà mình.
+
+- ☁️ **Cloud:** nhà có hai con server chạy 24/7. Tiền điện tăng, mình bảo với cái ví là "đang đầu tư cho tương lai". Ví không tin. Server thì tin, vì nó không có quyền phản đối.
+- 🔍 **Reverse engineering:** hồi nhỏ mình tháo đồ chơi ra xem bên trong có gì, lớn lên chuyển sang tháo file `.exe`. Khác ở chỗ giờ không ai mắng nữa, chỉ có Ghidra im lặng nhìn mình lúc 3 giờ sáng.
+- 🐈 **Car Thing:** Spotify khai tử nó, mình nhặt về hồi sinh. Giờ nó đọc tin, xem giá vàng, nhắc lịch, lái xe quá 2 tiếng còn nhắc nghỉ. Sống có kỷ luật hơn cả chủ.
+- 🔒 **Zero trust:** con Car Thing chỉ được nói chuyện với đúng một cổng trên một server. Mình gõ sai mật khẩu SSH cũng bị ghi sổ. Bị chính nhà mình nghi ngờ, cảm giác rất lạ nhưng rất an toàn.
+- 🐛 **Bug đầu tiên:** tìm ra một lỗi stack overflow trong cJSON. Không phải Stack Overflow kia nha, cái kia mình chỉ vào copy thôi.
+- ♟️ **Cờ vua:** viết hẳn một engine cờ, xong vẫn thua nó. Đó gọi là thành công.
+
+Mọi thứ ở đây là mình học công khai: có cái xong, có cái dở, có cái dở dang từ hồi hứa "tuần sau làm tiếp". Nếu bạn cũng đang học thì nhắn mình nha, học chung đỡ cô đơn, debug chung đỡ khóc 🥲
 
 ---
 
