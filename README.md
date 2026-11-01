@@ -1,49 +1,101 @@
-# nhaajtt
+# Nhaajt
 
-Reverse engineer and security researcher. I spend most of my time taking binaries apart to understand how they actually work: unpacking, deobfuscation, protocol and format reversing, and vulnerability research on native code.
+<p align="center">
+  <img width="160" src="https://github.com/nhaajtt.png" alt="Nhaajt" />
+</p>
 
-- Reverse engineering of native and obfuscated binaries (PE/ELF, packers, VM-based protections)
-- Malware analysis and unpacking
-- Binary exploitation and vulnerability research
-- Windows internals
-- Tooling for reverse engineering workflows (scripts, plugins, automation)
+<p align="center"><sub><em>
+Student, still learning, and very happy about it.<br />
+I like taking things apart to see how they work: a binary, a network, a bricked Spotify Car Thing.<br />
+Right now I'm learning two things properly: running things in the cloud, and reading them back in assembly.<br />
+Most of what's here is me learning in public, so expect rough edges and a lot of notes.
+</em></sub></p>
 
-I treat CTFs and personal research as a lab: most public work here is proof-of-concept code, analysis notes, and tools built to solve a specific reversing problem, not production software.
+<p align="center">
+  <a href="https://www.nhaajt.com"><b>nhaajt.com</b></a> ·
+  <a href="https://lab.nhaajt.com">lab</a> ·
+  <a href="https://nhaajtt.github.io">notes</a> ·
+  <a href="mailto:nhaajt.work@gmail.com">nhaajt.work@gmail.com</a>
+</p>
 
-Write-ups and analysis notes go to [nhaajtt.github.io](https://nhaajtt.github.io) (RSS available). My CV is at [nhaajt.com](https://www.nhaajt.com), everything I build is on [lab.nhaajt.com](https://lab.nhaajt.com), and the Discord bots are at [bots.nhaajt.com](https://bots.nhaajt.com).
+---
 
-## Projects
+## Now
 
-- [orrery](https://github.com/nhaajtt/orrery) - looks up a GitHub profile and draws its public repositories as planets, plus the Action behind the SVG above.
-- [canary-bypass](https://github.com/nhaajtt/canary-bypass) - recovering a stack canary byte by byte from a crash and no-crash oracle.
-- [fuzzing-lab](https://github.com/nhaajtt/fuzzing-lab) - a fuzzing harness for cJSON, with a finding reported as [DaveGamble/cJSON#1093](https://github.com/DaveGamble/cJSON/issues/1093).
-- [exploit-labs](https://github.com/nhaajtt/exploit-labs) - self-contained stack overflow, ret2libc and SQL injection labs, each with its own target and exploit.
-- [re-tools](https://github.com/nhaajtt/re-tools) - small command-line tools: ELF and PE header dumps, entropy scanning, XOR brute-forcing.
-- [re-ai-assist](https://github.com/nhaajtt/re-ai-assist) - connects a running Ghidra session to a language model for binary triage.
-- [ai-redteam](https://github.com/nhaajtt/ai-redteam) - a red-team harness testing a self-authored assistant against prompt injection and jailbreaks.
-- [ctf-writeups](https://github.com/nhaajtt/ctf-writeups) - CTF write-ups with a template and a self-updating index.
+cloud engineering<br>
+﹂**shipping small things on Cloudflare and Vercel**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂Workers, Durable Objects, WebSockets, rate limits ([chess rooms](https://github.com/nhaajtt/chess-in-the-margins/tree/main/server))<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂GitHub Actions that test every push and redraw this profile every day<br>
+﹂**Linux, networking and a homelab**: a Raspberry Pi, Tailscale, self-hosting, breaking it and fixing it again<br>
+﹂**Docker and Terraform**: learning to describe a whole setup in code instead of clicking through it<br>
+﹂**AWS**: working toward Cloud Practitioner, then Solutions Architect Associate
 
-## Toolbox
+reverse engineering<br>
+﹂**x86/x64 assembly and C**: learning to read what the compiler actually wrote<br>
+﹂**Ghidra and x64dbg**: stepping through programs until they make sense<br>
+﹂**CTFs and crackmes**: solving them, then writing down how (first notes coming to [nhaajtt.github.io](https://nhaajtt.github.io))<br>
+﹂**fuzzing**: found and reported a stack overflow in cJSON ([#1093](https://github.com/DaveGamble/cJSON/issues/1093))<br>
+﹂**malware analysis basics**: unpacking samples inside a throwaway VM, carefully
 
-![Ghidra](https://img.shields.io/badge/Ghidra-4B1A1A?style=flat-square)
-![IDA Pro](https://img.shields.io/badge/IDA%20Pro-2D2D2D?style=flat-square)
-![x64dbg](https://img.shields.io/badge/x64dbg-1E1E1E?style=flat-square)
-![radare2](https://img.shields.io/badge/radare2-464646?style=flat-square)
-![Frida](https://img.shields.io/badge/Frida-4A9C6D?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![x86/x64 Assembly](https://img.shields.io/badge/x86%2Fx64%20Assembly-333333?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+---
 
-## Activity
+## Learning path
 
+| | Cloud | Reverse engineering |
+|---|---|---|
+| **done** | deploy web apps on Vercel · a real-time service on Cloudflare Workers · CI with GitHub Actions | fuzzed cJSON and reported a stack overflow ([cJSON#1093](https://github.com/DaveGamble/cJSON/issues/1093)) |
+| **now** | Linux and networking in a homelab · Docker | x86/x64 assembly · Ghidra and x64dbg · CTFs and crackmes |
+| **next** | AWS Cloud Practitioner → Solutions Architect Associate · Terraform | unpacking · malware analysis basics in a lab VM |
 
-![Metrics](./github-metrics.svg)
+---
 
-## Orrery
+## Things I made
 
-![Public repositories of nhaajtt drawn as planets around the sun](./orrery.svg)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/nhaajtt/chess-in-the-margins"><b>chess-in-the-margins</b></a><br />
+      <sub>Chess drawn in ballpoint, every piece a creature. Own chess engine, online rooms on Cloudflare · <a href="https://chess.nhaajt.com">play it</a></sub><br />
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=cloudflare%20%7C%20websockets&labelColor=f97316&color=111827" alt="focus cloudflare websockets" /><br />
+      <img src="https://img.shields.io/github/stars/nhaajtt/chess-in-the-margins?style=flat-square&label=stars&color=f59e0b" alt="stars" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/nhaajtt/orrery"><b>orrery</b></a><br />
+      <sub>Any GitHub profile drawn as planets, plus a GitHub Action that redraws it daily · <a href="https://orrery.nhaajt.com">try it</a></sub><br />
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=github%20actions%20%7C%20svg&labelColor=0ea5e9&color=111827" alt="focus github actions svg" /><br />
+      <img src="https://img.shields.io/github/stars/nhaajtt/orrery?style=flat-square&label=stars&color=f59e0b" alt="stars" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/nhaajtt/carthing-desk-hub"><b>carthing-desk-hub</b></a><br />
+      <sub>A bricked Spotify Car Thing brought back as a desk hub: markets, news, weather, server health</sub><br />
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=hardware%20%7C%20self--hosting&labelColor=22c55e&color=111827" alt="focus hardware self-hosting" /><br />
+      <img src="https://img.shields.io/github/stars/nhaajtt/carthing-desk-hub?style=flat-square&label=stars&color=f59e0b" alt="stars" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/nhaajtt/shiftdrop"><b>shiftdrop</b></a><br />
+      <sub>Shift + drag any file for a wheel of actions: convert, compress, sign, share. Offline, Windows · <a href="https://shiftdrop.nhaajt.com">site</a></sub><br />
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=windows%20%7C%20desktop&labelColor=a855f7&color=111827" alt="focus windows desktop" /><br />
+      <img src="https://img.shields.io/github/stars/nhaajtt/shiftdrop?style=flat-square&label=stars&color=f59e0b" alt="stars" />
+    </td>
+  </tr>
+</table>
 
-Drawn daily by [Orrery](https://github.com/nhaajtt/orrery), a small GitHub Action I wrote. Each planet is a public repository. There is also a [live version](https://orrery.nhaajt.com/?u=nhaajtt) where you can look up any username and compare two profiles.
+More experiments, finished and unfinished, live on [lab.nhaajt.com](https://lab.nhaajt.com).
+
+---
+
+## Tiếng Việt
+
+Mình đang đi học và tự học thêm hai hướng mình mê nhất: **cloud engineering** và **reverse engineering**.
+Mình thích tháo tung mọi thứ ra xem bên trong chạy thế nào, từ một file chương trình, một hệ thống mạng, đến cái Spotify Car Thing đã "chết".
+Những gì ở đây là mình học công khai: có cái xong, có cái còn dở, nhưng cái nào cũng là một bài học.
+Nếu bạn cũng đang học, cứ nhắn mình, học chung vui hơn.
+
+---
+
+## Say hi
+
+Learning buddies, CTF teammates, homelab tips, or a "you got this wrong": all welcome.<br>
+📫 [nhaajt.work@gmail.com](mailto:nhaajt.work@gmail.com)
