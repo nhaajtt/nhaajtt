@@ -118,7 +118,7 @@ Chào bạn 👋 Ban ngày mình là sinh viên, ban đêm mình là kỹ sư cl
 Mọi thứ ở đây là mình học công khai: có cái xong, có cái dở, có cái dở dang từ hồi hứa "tuần sau làm tiếp". Nếu bạn cũng đang học thì nhắn mình nha, học chung đỡ cô đơn, debug chung đỡ khóc 🥲
 
 <!-- quote:start -->
-> 💬 **Câu nói hôm nay:** Commit message của mình chia ba giai đoạn: "fix bug", "fix bug again", "please".
+> 💬 **Câu nói hôm nay:** Một con server ngừng hoạt động là sự cố. Hai con ngừng cùng lúc là dấu hiệu nên đi ngủ.
 <!-- quote:end -->
 
 ---
