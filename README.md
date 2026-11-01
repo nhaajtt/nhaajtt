@@ -1,7 +1,7 @@
 # Nhaajt
 
 <p align="center">
-  <img width="160" src="https://github.com/nhaajtt.png" alt="Nhaajt" />
+  <img width="240" src="./avatar.jpg" alt="Nhaajt in a balaclava, with a hamster doing peace signs" />
 </p>
 
 <p align="center"><sub><em>
