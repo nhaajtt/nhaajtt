@@ -1,7 +1,7 @@
 # Nhaajt
 
 <p align="center">
-  <img width="760" src="./header.svg" alt="A terminal typing: mov rax, [passion]; call learn_cloud; call reverse_everything; jmp 0x317" />
+  <img width="760" src="./header.svg" alt="An Ubuntu terminal typing: mov rax, [passion]; call learn_cloud; call reverse_everything; jmp 0x317" />
 </p>
 
 <p align="center">
