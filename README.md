@@ -22,13 +22,17 @@ Most of what's here is me learning in public, so expect rough edges and a lot of
 
 ## Now
 
-cloud engineering<br>
-﹂**shipping small things on Cloudflare and Vercel**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;﹂Workers, Durable Objects, WebSockets, rate limits ([chess rooms](https://github.com/nhaajtt/chess-in-the-margins/tree/main/server))<br>
-&nbsp;&nbsp;&nbsp;&nbsp;﹂GitHub Actions that test every push and redraw this profile every day<br>
-﹂**Linux, networking and a homelab**: a Raspberry Pi, Tailscale, self-hosting, breaking it and fixing it again<br>
-﹂**Docker and Terraform**: learning to describe a whole setup in code instead of clicking through it<br>
-﹂**AWS**: working toward Cloud Practitioner, then Solutions Architect Associate
+cloud & infrastructure<br>
+﹂**a two-server homelab I run and break myself**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂Linux and Docker, container health checks, CPU / memory / temperature graphs over 24 h<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂locked down by default: firewall allow-lists, alerts on failed SSH logins and on any newly opened port<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂a desk device that can reach exactly one port on one server, nothing else ([carthing-desk-hub](https://github.com/nhaajtt/carthing-desk-hub))<br>
+﹂**a real-time multiplayer backend on Cloudflare Workers** ([chess rooms](https://github.com/nhaajtt/chess-in-the-margins/tree/main/server))<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂one Durable Object per room, hibernating WebSockets, every move re-checked on the server<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂per-IP rate limits, an origin allow-list, socket caps, rooms that clean themselves up after a day<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂strict CSP and HSTS in front, tests for the abuse cases behind<br>
+﹂**CI/CD I can trust**: tests on every push, CodeQL, actions pinned to commit SHAs, read-only tokens<br>
+﹂**next**: Terraform for all of the above, then AWS (Cloud Practitioner → Solutions Architect Associate)
 
 reverse engineering<br>
 ﹂**x86/x64 assembly and C**: learning to read what the compiler actually wrote<br>
@@ -41,11 +45,11 @@ reverse engineering<br>
 
 ## Learning path
 
-| | Cloud | Reverse engineering |
+| | Cloud & infrastructure | Reverse engineering |
 |---|---|---|
-| **done** | deploy web apps on Vercel · a real-time service on Cloudflare Workers · CI with GitHub Actions | fuzzed cJSON and reported a stack overflow ([cJSON#1093](https://github.com/DaveGamble/cJSON/issues/1093)) |
-| **now** | Linux and networking in a homelab · Docker | x86/x64 assembly · Ghidra and x64dbg · CTFs and crackmes |
-| **next** | AWS Cloud Practitioner → Solutions Architect Associate · Terraform | unpacking · malware analysis basics in a lab VM |
+| **done** | two-server homelab: Docker, monitoring, security alerts · real-time backend on Durable Objects · hardened CI (pinned actions, CodeQL) | fuzzed cJSON and reported a stack overflow ([cJSON#1093](https://github.com/DaveGamble/cJSON/issues/1093)) |
+| **now** | zero-trust networking with Tailscale ACLs · least-privilege containers · observability | x86/x64 assembly · Ghidra and x64dbg · CTFs and crackmes |
+| **next** | Terraform · AWS Cloud Practitioner → Solutions Architect Associate · Kubernetes basics | unpacking · malware analysis basics in a lab VM |
 
 ---
 
@@ -56,7 +60,7 @@ reverse engineering<br>
     <td width="50%" valign="top">
       <a href="https://github.com/nhaajtt/chess-in-the-margins"><b>chess-in-the-margins</b></a><br />
       <sub>Chess drawn in ballpoint, every piece a creature. Own chess engine, online rooms on Cloudflare · <a href="https://chess.nhaajt.com">play it</a></sub><br />
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=cloudflare%20%7C%20websockets&labelColor=f97316&color=111827" alt="focus cloudflare websockets" /><br />
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=durable%20objects%20%7C%20websockets&labelColor=f97316&color=111827" alt="focus cloudflare websockets" /><br />
       <img src="https://img.shields.io/github/stars/nhaajtt/chess-in-the-margins?style=flat-square&label=stars&color=f59e0b" alt="stars" />
     </td>
     <td width="50%" valign="top">
@@ -70,7 +74,7 @@ reverse engineering<br>
     <td width="50%" valign="top">
       <a href="https://github.com/nhaajtt/carthing-desk-hub"><b>carthing-desk-hub</b></a><br />
       <sub>A bricked Spotify Car Thing brought back as a desk hub: markets, news, weather, server health</sub><br />
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=hardware%20%7C%20self--hosting&labelColor=22c55e&color=111827" alt="focus hardware self-hosting" /><br />
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=homelab%20%7C%20monitoring&labelColor=22c55e&color=111827" alt="focus hardware self-hosting" /><br />
       <img src="https://img.shields.io/github/stars/nhaajtt/carthing-desk-hub?style=flat-square&label=stars&color=f59e0b" alt="stars" />
     </td>
     <td width="50%" valign="top">
@@ -88,7 +92,7 @@ More experiments, finished and unfinished, live on [lab.nhaajt.com](https://lab.
 
 ## Tiếng Việt
 
-Mình đang đi học và tự học thêm hai hướng mình mê nhất: **cloud engineering** và **reverse engineering**.
+Mình đang đi học và tự học thêm hai hướng mình mê nhất: **cloud engineering** và **reverse engineering**. Mình tự dựng và vận hành homelab hai server ở nhà, viết backend thời gian thực trên Cloudflare, và làm hạ tầng theo kiểu “không tin gì mặc định”.
 Mình thích tháo tung mọi thứ ra xem bên trong chạy thế nào, từ một file chương trình, một hệ thống mạng, đến cái Spotify Car Thing đã "chết".
 Những gì ở đây là mình học công khai: có cái xong, có cái còn dở, nhưng cái nào cũng là một bài học.
 Nếu bạn cũng đang học, cứ nhắn mình, học chung vui hơn.
