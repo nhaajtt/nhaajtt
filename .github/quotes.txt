@@ -1,0 +1,32 @@
+Code chạy được thì đừng hỏi tại sao. Code không chạy thì càng đừng hỏi, vì câu trả lời luôn là "do mình".
+Mình không có bug, mình chỉ có những tính năng chưa được ai yêu cầu.
+Homelab là nơi mình trả tiền điện để được tự tay sửa những thứ không ai bắt mình sửa.
+Ghidra không phán xét. Ghidra chỉ lặng lẽ cho thấy mình đọc sai từ hàm đầu tiên.
+"Để mình restart thử" là câu thần chú mạnh nhất trong ngành IT, mạnh hơn mọi chứng chỉ.
+Cloud chỉ là máy tính của người khác. Homelab là máy tính của mình, nhưng mình cũng không hiểu nó hơn là bao.
+Mỗi lần mình nói "chỉ sửa một dòng thôi", có một container ở đâu đó âm thầm sập.
+Mình học assembly để hiểu máy tính nghĩ gì. Kết quả: máy tính nghĩ nhiều hơn mình.
+Docker giải quyết được câu "máy em chạy được mà". Giờ câu đó thành "container em chạy được mà".
+Firewall nhà mình chặn mọi thứ, kể cả chính mình lúc quên mật khẩu SSH.
+Debug là nghệ thuật làm thám tử trong một vụ án mà mình vừa là hung thủ, vừa là nạn nhân.
+Terraform giúp mình phá cả hạ tầng chỉ bằng một lệnh, nhanh và gọn hơn bao giờ hết.
+Đọc log lúc 3:17 sáng: chữ thì thấy hết, hiểu thì không được chữ nào.
+Crackme dễ nhất là cái mình chưa mở ra.
+"Lần này chắc chắn được" là câu mình nói trước lần build thứ mười bảy.
+Mình không thức khuya vì code. Mình thức khuya vì code không chịu chạy.
+Stack overflow có hai loại: một loại làm sập chương trình, một loại cứu sống sinh viên.
+Commit message của mình chia ba giai đoạn: "fix bug", "fix bug again", "please".
+Một con server ngừng hoạt động là sự cố. Hai con ngừng cùng lúc là dấu hiệu nên đi ngủ.
+Học reverse engineering xong, mình nhìn cái lò vi sóng cũng thấy nó đang giấu mình điều gì đó.
+Monitoring là để biết server sập trước khi người khác biết. Hoặc ít nhất là cùng lúc.
+Mỗi lần gõ "rm -rf", tim mình đập theo kiểu không đồng bộ.
+Mình hiểu bộ nhớ đệm rồi. Mình chỉ chưa hiểu tại sao nó vẫn trả về bản cũ.
+YAML: nơi một dấu cách sai chỗ có thể dạy mình bài học về sự khiêm tốn.
+Không có gì vĩnh viễn, trừ cái tab Stack Overflow mình mở từ tuần trước.
+Uptime 99,9% nghe rất chuyên nghiệp, cho tới khi mình kể 0,1% còn lại xảy ra lúc nào.
+Disassembler cho mình thấy chương trình. Debugger cho mình thấy mình sai ở đâu. Cà phê cho mình thấy ngày mai.
+Mình viết test để chắc chắn code đúng. Rồi mình sửa test để chắc chắn nó qua.
+Kỹ sư cloud giỏi là người biết hóa đơn sẽ đến trước khi nó đến.
+Mỗi bug sửa xong sinh ra hai bug mới. Mình gọi đó là hệ sinh thái.
+Học công khai nghĩa là ai cũng thấy mình sai. Nhưng cũng nhờ vậy mà có người chỉ mình sửa.
+Hôm nay mình không tiến bộ nhiều, nhưng ít nhất server vẫn còn sống. Và mình cũng vậy.

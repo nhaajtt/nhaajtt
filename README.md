@@ -1,6 +1,10 @@
 # Nhaajt
 
 <p align="center">
+  <img width="760" src="./header.svg" alt="A terminal typing: mov rax, [passion]; call learn_cloud; call reverse_everything; jmp 0x317" />
+</p>
+
+<p align="center">
   <img width="240" src="./avatar.jpg" alt="Nhaajt in a balaclava, with a hamster doing peace signs" />
 </p>
 
@@ -50,6 +54,13 @@ reverse engineering<br>
 | **done** | two-server homelab: Docker, monitoring, security alerts · real-time backend on Durable Objects · hardened CI (pinned actions, CodeQL) | fuzzed cJSON and reported a stack overflow ([cJSON#1093](https://github.com/DaveGamble/cJSON/issues/1093)) |
 | **now** | zero-trust networking with Tailscale ACLs · least-privilege containers · observability | x86/x64 assembly · Ghidra and x64dbg · CTFs and crackmes |
 | **next** | Terraform · AWS Cloud Practitioner → Solutions Architect Associate · Kubernetes basics | unpacking · malware analysis basics in a lab VM |
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./snake/snake-dark.svg" />
+    <img src="./snake/snake-light.svg" alt="A snake eating the contribution graph" />
+  </picture>
+</p>
 
 ---
 
@@ -102,6 +113,10 @@ Chào bạn 👋 Ban ngày mình là sinh viên, ban đêm mình là kỹ sư cl
 - ♟️ **Cờ vua:** viết hẳn một engine cờ, xong vẫn thua nó. Đó gọi là thành công.
 
 Mọi thứ ở đây là mình học công khai: có cái xong, có cái dở, có cái dở dang từ hồi hứa "tuần sau làm tiếp". Nếu bạn cũng đang học thì nhắn mình nha, học chung đỡ cô đơn, debug chung đỡ khóc 🥲
+
+<!-- quote:start -->
+> 💬 **Câu nói hôm nay:** Commit message của mình chia ba giai đoạn: "fix bug", "fix bug again", "please".
+<!-- quote:end -->
 
 ---
 
