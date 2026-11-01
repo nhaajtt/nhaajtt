@@ -90,7 +90,7 @@ More experiments, finished and unfinished, live on [lab.nhaajt.com](https://lab.
 
 ---
 
-## Tiếng Việt (bản không nghiêm túc)
+## Tiếng Việt
 
 Chào bạn 👋 Ban ngày mình là sinh viên, ban đêm mình là kỹ sư cloud không lương cho chính cái homelab nhà mình.
 
