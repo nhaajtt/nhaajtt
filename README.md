@@ -95,7 +95,7 @@ More experiments, finished and unfinished, live on [lab.nhaajt.com](https://lab.
 Chào bạn 👋 Ban ngày mình là sinh viên, ban đêm mình là kỹ sư cloud không lương cho chính cái homelab nhà mình.
 
 - ☁️ **Cloud:** nhà có hai con server chạy 24/7. Tiền điện tăng, mình bảo với cái ví là "đang đầu tư cho tương lai". Ví không tin. Server thì tin, vì nó không có quyền phản đối.
-- 🔍 **Reverse engineering:** hồi nhỏ mình tháo đồ chơi ra xem bên trong có gì, lớn lên chuyển sang tháo file `.exe`. Khác ở chỗ giờ không ai mắng nữa, chỉ có Ghidra im lặng nhìn mình lúc 3 giờ sáng.
+- 🔍 **Reverse engineering:** hồi nhỏ mình tháo đồ chơi ra xem bên trong có gì, lớn lên chuyển sang tháo file `.exe`. Khác ở chỗ giờ không ai mắng nữa, chỉ có Ghidra im lặng nhìn mình lúc 3:17 am.
 - 🐈 **Car Thing:** Spotify khai tử nó, mình nhặt về hồi sinh. Giờ nó đọc tin, xem giá vàng, nhắc lịch, lái xe quá 2 tiếng còn nhắc nghỉ. Sống có kỷ luật hơn cả chủ.
 - 🔒 **Zero trust:** con Car Thing chỉ được nói chuyện với đúng một cổng trên một server. Mình gõ sai mật khẩu SSH cũng bị ghi sổ. Bị chính nhà mình nghi ngờ, cảm giác rất lạ nhưng rất an toàn.
 - 🐛 **Bug đầu tiên:** tìm ra một lỗi stack overflow trong cJSON. Không phải Stack Overflow kia nha, cái kia mình chỉ vào copy thôi.
