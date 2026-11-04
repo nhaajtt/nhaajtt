@@ -118,7 +118,7 @@ Chào bạn 👋 Ban ngày mình là sinh viên, ban đêm mình là kỹ sư cl
 Mọi thứ ở đây là mình học công khai: có cái xong, có cái dở, có cái dở dang từ hồi hứa "tuần sau làm tiếp". Nếu bạn cũng đang học thì nhắn mình nha, học chung đỡ cô đơn, debug chung đỡ khóc 🥲
 
 <!-- quote:start -->
-> 💬 **Câu nói hôm nay:** Monitoring là để biết server sập trước khi người khác biết. Hoặc ít nhất là cùng lúc.
+> 💬 **Câu nói hôm nay:** Mỗi lần gõ "rm -rf", tim mình đập theo kiểu không đồng bộ.
 <!-- quote:end -->
 
 ---
