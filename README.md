@@ -78,19 +78,13 @@ reverse engineering<br>
       <img src="https://img.shields.io/github/stars/nhaajtt/chess-in-the-margins?style=flat-square&label=stars&color=f59e0b" alt="stars" />
     </td>
     <td width="50%" valign="top">
-      <a href="https://orrery.nhaajt.com"><b>orrery</b></a><br />
-      <sub>Any GitHub profile drawn as planets, plus a GitHub Action that redraws it daily · <a href="https://orrery.nhaajt.com">try it</a></sub><br />
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=github%20actions%20%7C%20svg&labelColor=0ea5e9&color=111827" alt="focus github actions svg" /><br />
-      <img src="https://img.shields.io/website?url=https%3A%2F%2Forrery.nhaajt.com&style=flat-square&label=live&up_message=online&up_color=22c55e" alt="live" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <a href="https://github.com/nhaajtt/carthing-desk-hub"><b>carthing-desk-hub</b></a><br />
       <sub>A bricked Spotify Car Thing brought back as a desk hub: markets, news, weather, server health</sub><br />
       <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=homelab%20%7C%20monitoring&labelColor=22c55e&color=111827" alt="focus hardware self-hosting" /><br />
       <img src="https://img.shields.io/github/stars/nhaajtt/carthing-desk-hub?style=flat-square&label=stars&color=f59e0b" alt="stars" />
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/nhaajtt/shiftdrop"><b>shiftdrop</b></a><br />
       <sub>Shift + drag any file for a wheel of actions: convert, compress, sign, share. Offline, Windows · <a href="https://shiftdrop.nhaajt.com">site</a></sub><br />
