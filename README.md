@@ -112,7 +112,7 @@ Chào bạn 👋 Ban ngày mình là sinh viên, ban đêm mình là kỹ sư cl
 Mọi thứ ở đây là mình học công khai: có cái xong, có cái dở, có cái dở dang từ hồi hứa "tuần sau làm tiếp". Nếu bạn cũng đang học thì nhắn mình nha, học chung đỡ cô đơn, debug chung đỡ khóc 🥲
 
 <!-- quote:start -->
-> 💬 **Câu nói hôm nay:** Mình hiểu bộ nhớ đệm rồi. Mình chỉ chưa hiểu tại sao nó vẫn trả về bản cũ.
+> 💬 **Câu nói hôm nay:** YAML: nơi một dấu cách sai chỗ có thể dạy mình bài học về sự khiêm tốn.
 <!-- quote:end -->
 
 ---
