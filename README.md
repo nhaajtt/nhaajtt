@@ -112,7 +112,7 @@ Chào bạn 👋 Ban ngày mình là sinh viên, ban đêm mình là kỹ sư cl
 Mọi thứ ở đây là mình học công khai: có cái xong, có cái dở, có cái dở dang từ hồi hứa "tuần sau làm tiếp". Nếu bạn cũng đang học thì nhắn mình nha, học chung đỡ cô đơn, debug chung đỡ khóc 🥲
 
 <!-- quote:start -->
-> 💬 **Câu nói hôm nay:** Uptime 99,9% nghe rất chuyên nghiệp, cho tới khi mình kể 0,1% còn lại xảy ra lúc nào.
+> 💬 **Câu nói hôm nay:** Disassembler cho mình thấy chương trình. Debugger cho mình thấy mình sai ở đâu. Cà phê cho mình thấy ngày mai.
 <!-- quote:end -->
 
 ---
