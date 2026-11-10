@@ -98,26 +98,5 @@ More experiments, finished and unfinished, live on [lab.nhaajt.com](https://lab.
 
 ---
 
-## Tiếng Việt
-
-Chào bạn 👋 Ban ngày mình là sinh viên, ban đêm mình là kỹ sư cloud không lương cho chính cái homelab nhà mình.
-
-- ☁️ **Cloud:** nhà có hai con server chạy 24/7. Tiền điện tăng, mình bảo với cái ví là "đang đầu tư cho tương lai". Ví không tin. Server thì tin, vì nó không có quyền phản đối.
-- 🔍 **Reverse engineering:** hồi nhỏ mình tháo đồ chơi ra xem bên trong có gì, lớn lên chuyển sang tháo file `.exe`. Khác ở chỗ giờ không ai mắng nữa, chỉ có Ghidra im lặng nhìn mình lúc 3:17 am.
-- 🐈 **Car Thing:** Spotify khai tử nó, mình nhặt về hồi sinh. Giờ nó đọc tin, xem giá vàng, nhắc lịch, lái xe quá 2 tiếng còn nhắc nghỉ. Sống có kỷ luật hơn cả chủ.
-- 🔒 **Zero trust:** con Car Thing chỉ được nói chuyện với đúng một cổng trên một server. Mình gõ sai mật khẩu SSH cũng bị ghi sổ. Bị chính nhà mình nghi ngờ, cảm giác rất lạ nhưng rất an toàn.
-- 🐛 **Bug đầu tiên:** tìm ra một lỗi stack overflow trong cJSON. Không phải Stack Overflow kia nha, cái kia mình chỉ vào copy thôi.
-- ♟️ **Cờ vua:** viết hẳn một engine cờ, xong vẫn thua nó. Đó gọi là thành công.
-
-Mọi thứ ở đây là mình học công khai: có cái xong, có cái dở, có cái dở dang từ hồi hứa "tuần sau làm tiếp". Nếu bạn cũng đang học thì nhắn mình nha, học chung đỡ cô đơn, debug chung đỡ khóc 🥲
-
-<!-- quote:start -->
-> 💬 **Câu nói hôm nay:** Disassembler cho mình thấy chương trình. Debugger cho mình thấy mình sai ở đâu. Cà phê cho mình thấy ngày mai.
-<!-- quote:end -->
-
----
-
-## Say hi
-
 Learning buddies, CTF teammates, homelab tips, or a "you got this wrong": all welcome.<br>
 📫 [nhaajt.work@gmail.com](mailto:nhaajt.work@gmail.com)
