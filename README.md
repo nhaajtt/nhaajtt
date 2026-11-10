@@ -27,29 +27,6 @@ Most of what's here is me learning in public, so expect rough edges and a lot of
 
 ---
 
-## Now
-
-cloud & infrastructure<br>
-﹂**a two-server homelab I run and break myself**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;﹂Linux and Docker, container health checks, CPU / memory / temperature graphs over 24 h<br>
-&nbsp;&nbsp;&nbsp;&nbsp;﹂locked down by default: firewall allow-lists, alerts on failed SSH logins and on any newly opened port<br>
-&nbsp;&nbsp;&nbsp;&nbsp;﹂a desk device that can reach exactly one port on one server, nothing else ([carthing-desk-hub](https://github.com/nhaajtt/carthing-desk-hub))<br>
-﹂**a real-time multiplayer backend on Cloudflare Workers** ([chess rooms](https://github.com/nhaajtt/chess-in-the-margins/tree/main/server))<br>
-&nbsp;&nbsp;&nbsp;&nbsp;﹂one Durable Object per room, hibernating WebSockets, every move re-checked on the server<br>
-&nbsp;&nbsp;&nbsp;&nbsp;﹂per-IP rate limits, an origin allow-list, socket caps, rooms that clean themselves up after a day<br>
-&nbsp;&nbsp;&nbsp;&nbsp;﹂strict CSP and HSTS in front, tests for the abuse cases behind<br>
-﹂**CI/CD I can trust**: tests on every push, CodeQL, actions pinned to commit SHAs, read-only tokens<br>
-﹂**next**: Terraform for all of the above, then AWS (Cloud Practitioner → Solutions Architect Associate)
-
-reverse engineering<br>
-﹂**x86/x64 assembly and C**: learning to read what the compiler actually wrote<br>
-﹂**Ghidra and x64dbg**: stepping through programs until they make sense<br>
-﹂**CTFs and crackmes**: solving them, then writing down how (first notes coming to [nhaajtt.github.io](https://nhaajtt.github.io))<br>
-﹂**fuzzing**: found and reported a stack overflow in cJSON ([#1093](https://github.com/DaveGamble/cJSON/issues/1093))<br>
-﹂**malware analysis basics**: unpacking samples inside a throwaway VM, carefully
-
----
-
 ## Learning path
 
 | | Cloud & infrastructure | Reverse engineering |
@@ -94,7 +71,7 @@ reverse engineering<br>
   </tr>
 </table>
 
-More experiments, finished and unfinished, live on [lab.nhaajt.com](https://lab.nhaajt.com).
+More experiments, finished and unfinished, live on [lab.nhaajt.com](https://nhaajt.com).
 
 ---
 
